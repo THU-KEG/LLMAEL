@@ -1,4 +1,4 @@
-# LLM-Augmented Entity Linking
+# LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking.
 
 <p align="center">
     <a href="https://arxiv.org/abs/2407.04020"><img alt="Paper" src="https://img.shields.io/badge/📖-Paper-orange"></a>
@@ -6,7 +6,7 @@
     <a href="https://github.com/THU-KEG"><img src="https://img.shields.io/badge/THU-KEG_Group-blueviolet"></a>
 </p>
 
-Datasets, scripts, and fine-tuned model for the paper LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking.
+This repository contains the data, code, and fine-tuned model for the [ACL 2025 WikiNLP Workshop] paper ***LLMAEL: Large Language Models are Good Context Augmenters for Entity Linking***.
 
 <p align="justify">
 
